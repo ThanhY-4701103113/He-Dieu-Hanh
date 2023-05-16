@@ -1,0 +1,11 @@
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\bin\Debug\Hệ Điều Hành LRU.exe.config
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\bin\Debug\Hệ Điều Hành LRU.exe
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\bin\Debug\Hệ Điều Hành LRU.pdb
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\obj\Debug\Hệ Điều Hành LRU.csproj.AssemblyReference.cache
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\obj\Debug\Hệ Điều Hành LRU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\obj\Debug\Hệ_Điều_Hành_LRU.Properties.Resources.resources
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\obj\Debug\Hệ Điều Hành LRU.csproj.GenerateResource.cache
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\obj\Debug\Hệ Điều Hành LRU.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\obj\Debug\Hệ Điều Hành LRU.exe
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\obj\Debug\Hệ Điều Hành LRU.pdb
+C:\Users\Thanh\source\repos\Hệ Điều Hành LRU\Hệ Điều Hành LRU\obj\Debug\Hệ_Điều_Hành_LRU.FrmLRU.resources
